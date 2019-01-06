@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Oran's Price Sheet
 
-You can use the [editor on GitHub](https://github.com/OranWeb/Price/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Torn's First Trader that believes in Volume not Margin.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
